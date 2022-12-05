@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929174011089",
+    "project_id": "test-6b9f4",
+    "storage_bucket": "test-6b9f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929174011089:android:52b3deb4cd0bcc12c419f0",
+        "android_client_info": {
+          "package_name": "com.example.recylerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929174011089-1466thqpri6bs0oagsqvjsuimlbj7rmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAqHXQdeLg11Pxnh7eKXcm_XlPiLaoDHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929174011089-1466thqpri6bs0oagsqvjsuimlbj7rmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
